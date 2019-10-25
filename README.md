@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+#一、项目介绍
+##（一）背景
+##（二）项目概述
+##（三）项目目标
+##（四）项目意义
+#二、项目需求分析
+##（一）竞品分析
+###1.	APP1（交互体验，运营模式，界面设计，功能模块）
+#### - 功能框架
+#### - 优点
+#### - 缺点
+###2.	APP2
+#### - 功能框架
+#### - 优点
+#### - 缺点
+###3.	APP3
+####1、功能框架
+####2、优点
+####3、缺点
+###4.	总结
+####1、可以借鉴的优点
+####2、可以避免的缺点
+##（二）发展趋势
+##（三）新产品的创新点
+#三、产品待办事项
+##序号	事项	注入比例	耗时	如何演示	注意事项
+1	登入注册				
+2	修改用户资料				
+3	组织管理				
+4	发布通知				
+5	任务管理				
+6	删除任务				
+					
+					
+					
 
-You can use the [editor on GitHub](https://github.com/1031646184/ldu_SE.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1031646184/ldu_SE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#四、需求规格说明书
+##（一）用例
+###1.	基本用例
+####1、登入注册
+①用例文本
+1.	用例
+2.	范围
+3.	级别
+4.	主要参与者
+5.	涉及关注点
+6.	前置任务
+7.	后置任务
+8.	主成功场景
+9.	拓展
+10.	特殊需求
+11.	技术与数据变元表
+12.	发生频率
+13.	未决问题
+②活动图
+2、Other
+3、Other
+4、Other
+5、Other
+###2.	拓展用例
+####1、失物招领
+（二）用例图
+（三）领域模型
+（四）状态模型
+（五）功能模型
+#五、设计说明书（UI）
+#六、体系结构
+（一）	体系结构设计考量
+（二）	体系结构设计图
+#七、系统实现与设计模式
+（一）系统核心功能实现
+（二）数据库模型设计
+（三）设计模式应用
+#八、系统测试
+（一）单元测试记录
+（二）性能测试记录
+（三）系统部署
+#九、小组分工与贡献率
+#十、总结
