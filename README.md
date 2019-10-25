@@ -37,7 +37,7 @@
 # 四、需求规格说明书
 ## （一）用例
 ### 1.	基本用例
-![im]( image/用例图_任务管理.jpg)
+![im]( https://github.com/1031646184/ldu_SE.github.io/blob/master/image/%E7%94%A8%E4%BE%8B%E5%9B%BE_%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86.jpg)
 #### 1、登入注册
 ①用例文本
 1.	用例
