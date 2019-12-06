@@ -14,8 +14,8 @@
 		- [拓展用例](useCase.md/#exuc)
 	- [用例图](useCase.md/#ucim)
 - 5.UI设计
-	- [原型图]()
-	- [UI设计说明书]()
+	- [原型图](https://free.modao.cc/app/3424fc4168f98c5021ad45e8e494d417ac28ae9b)
+	- [UI设计说明书](UI说明书.md)
 - 6.[体系结构](体系结构.md)
 	- [体系结构设计考量](体系结构.md/#op11)
 	- [体系结构设计图](体系结构.md/#op12)
@@ -36,7 +36,7 @@
 	- [后端代码规范](后端代码规范.md)
 - [小组会议记录]()
 - 学习记录与参考资料
-	- 腾讯云服务器部署
+	- [腾讯云服务器部署](https://cloud.tencent.com/document/product/213)
 	- [使用阿里云OSS搭建图床](https://www.cnblogs.com/demojie/p/11600991.html)
 	- [centOS7安装npm](安装npm.md)
 	- [Linux常用命令](linux命令.md)
